@@ -1,0 +1,16 @@
+{
+  "name": "vanilla-product-restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Asad Habeeb",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
